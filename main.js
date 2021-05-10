@@ -98,7 +98,7 @@ function my_keydown(e)
     }
     if(keyPressed=='72')
     {
-        new_image('captain_america_left_hand.jpg');
+        new_image('captain_america_left_hand.png');
         console.log("h");
     }
 }
